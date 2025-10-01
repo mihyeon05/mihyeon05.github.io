@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+kimmihyeon
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
